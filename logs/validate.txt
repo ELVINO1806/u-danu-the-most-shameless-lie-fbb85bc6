@@ -1,0 +1,3 @@
+match
+chars: 25 words: 5
+cap88: True
